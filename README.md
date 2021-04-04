@@ -2,7 +2,7 @@
 
 Key concepts and notations
 
-s \{in} S
+s {\in} S
 
 
 
