@@ -2,7 +2,7 @@
 
 Key concepts and notations
 
-s $_in$
+s $_\in$
 
 
 
