@@ -2,8 +2,6 @@
 
 Key concepts and notations
 
-s $_\in$
-
 
 
 
