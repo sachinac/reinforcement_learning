@@ -1,7 +1,7 @@
 # Reinforcement Learning
 
 Key concepts and notations
-
+\alpha
 
 
 
