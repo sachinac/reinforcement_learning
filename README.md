@@ -1,7 +1,5 @@
 # Reinforcement Learning
 
-Key concepts and notations
-
 Important URLs <br><br>
 https://www.alexirpan.com/2018/02/14/rl-hard.html<br>
 https://spinningup.openai.com/en/latest/user/introduction.html<br>
